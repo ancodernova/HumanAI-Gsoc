@@ -58,15 +58,15 @@ The solution is structured as a standalone notebook that can be run in Jupyter N
 
 - **CTC Loss Curve**  
   Shows a consistent decline indicating proper convergence during training.
-  ![](Image_Folder/Plot.png)
+  ![](Result_plot/Plot.png)
 
 - **Model Training Plot**  
   Illustrates performance improvements over training data.
-  ![alt text](Image_Folder/TrainingImages.png)
+  ![alt text](Result_plot/TrainingImages.png)
 
 - **Predicted OCR Output**  
    Samples of text predicted by the model that closely match ground truth values.
-  ![alt text](Image_Folder/OCRPredictionText.png)
+  ![alt text](Result_plot/OCRPredictionText.png)
 
 ---
 
